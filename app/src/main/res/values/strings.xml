@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doctor Nim</string>
+    <string name="reset">Reset</string>
+    <string name="quit">Quit</string>
+    <string name="play">Play</string>
+    <string name="marbles_left">Marbles left =</string>
+</resources>
